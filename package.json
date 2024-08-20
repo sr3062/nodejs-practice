@@ -1,0 +1,15 @@
+{
+  "name": "sherin",
+  "version": "1.0.0",
+  "description": "Its an amazing package",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node createServerHttp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Serib",
+  "license": "ISC",
+  "dependencies": {
+    "pokemon": "^2.3.6"
+  }
+}
